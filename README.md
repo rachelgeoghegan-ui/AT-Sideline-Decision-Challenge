@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29353705/README.md)
 # AT Sideline Decision Challenge
 
 A self-contained, projector-friendly browser app for high school outreach events introducing students to athletic training.
